@@ -1,2 +1,2 @@
-# Merhaba-D-nya
+# Merhaba Dunya
 ilk program
