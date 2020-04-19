@@ -1,3 +1,3 @@
 # Merhaba Dunya
+# duzeltme yapıyorum
 ilk program
-duzeltme yapıyorum
